@@ -2,12 +2,14 @@
 
 
 <div align="center">
+  
+[![Stats](https://github-readme-stats.vercel.app/api?username=dndradee&layout=compact&border_color=00000000&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dndrade&layout=compact&border_color=00000000&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <!--
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dndrade&layout=compact&border_color=00000000&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 **dndrade/dndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
