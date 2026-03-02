@@ -1,25 +1,20 @@
-## Hi there 👋
-
 
 <div align="center">
-  
-[![Stats](https://github-readme-stats.vercel.app/api?username=dndradee&layout=compact&border_color=00000000&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![SYSTEMS × INFRASTRUCTURE](https://img.shields.io/badge/SYSTEMS%20×%20INFRASTRUCTURE-ENGINEERING-11111b?style=for-the-badge&labelColor=11111b&color=305fd1)
+# ![HUMAN--CENTERED](https://img.shields.io/badge/HUMAN--CENTERED-DESIGN-11111b?style=for-the-badge&labelColor=11111b&color=7a3dd2)
 
 </div>
 
-<!--
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dndrade&layout=compact&border_color=00000000&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-**dndrade/dndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+My work focuses on reducing cognitive overhead —
+for operators, developers, and end users alike.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building [**Veilgate**](https://veilgate.com), a self-hosted infrastructure lab where I experiment with automation and low-friction system design.
+
+<br/>
+
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/Linux-11111b?style=flat-square&logo=linux&logoColor=FCC624"/>
+</p> -->
