@@ -11,7 +11,7 @@
 My work focuses on reducing cognitive overhead —
 for operators, developers, and end users alike.
 
-Currently building [**Veilgate**]([https://veilgate.com](https://github.com/dndrade/homelab)), a self-hosted infrastructure lab where I experiment with automation and low-friction system design.
+Currently building [**Veilgate**](https://github.com/dndrade/homelab), a self-hosted infrastructure lab where I experiment with automation and low-friction system design.
 
 <br/>
 
